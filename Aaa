@@ -1,0 +1,7 @@
+echo "# abas" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/xfxf481/abas.git
+git push -u origin main
